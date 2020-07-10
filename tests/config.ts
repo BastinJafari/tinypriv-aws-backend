@@ -1,0 +1,1 @@
+process.env.TABLE_NAME = 'secrets-dev'
